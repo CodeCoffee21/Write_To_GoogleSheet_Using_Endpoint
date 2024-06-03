@@ -11,7 +11,7 @@ Crie uma nova planilha ou abra uma planilha existente onde você deseja inserir 
 No Google Sheets, vá para Extensões > Apps Script.
 
 
-3- Copiar Codigo em "Script.script"
+3- Copiar Codigo em "Script.js"
 soltar em App Script.
 
 e correr em executar.
